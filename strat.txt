@@ -1,0 +1,5 @@
+0 ADD -> Cargamos nuevos paquetes a las estaciones.
+1 Deliver -> Entregamos todos los paquetes que correspondan a la est actual a la que nos hemos movido
+OR 2 Load -> Cargamos de esta estacion todos los paquetes que podamos.
+OR 3 MOVE -> Movemos el vagon a la siguiente posición 
+ 
